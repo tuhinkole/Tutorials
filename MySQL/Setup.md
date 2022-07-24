@@ -32,7 +32,12 @@ mysql.server stop
 
 Now you can connect to the server using the command:
 
-mysql -u root -p
+mysql -u root -p!
+
+![](assets/mysql.png)
+
+
+
 
 
 
