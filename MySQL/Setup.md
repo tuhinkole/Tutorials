@@ -34,7 +34,7 @@ Now you can connect to the server using the command:
 
 mysql -u root -p!
 
-![](assets/myswl.png)
+![](assets/mysql.png)
 
 
 
